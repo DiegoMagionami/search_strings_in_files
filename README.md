@@ -46,4 +46,3 @@ cd file-search-script
 ## License
 
 This script is provided under the [MIT License](LICENSE).
-```
